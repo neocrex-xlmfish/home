@@ -1,0 +1,75 @@
+# XLMFISH Token Whitepaper: Second Draft
+
+## ⚠️ Disclaimer: Work in Progress ⚠️
+
+**This document is a draft (Second Draft) and the figures contained herein, particularly those related to Liquidity Pool (LP) allocations, are subject to final audit and community confirmation. This whitepaper is for informational purposes only and is not an offer to sell or a solicitation of an offer to buy any securities or tokens.**
+
+---
+
+### 1. Introduction: XLMFISH 🐟
+
+XLMFISH is a digital asset built on the Stellar network, designed with a focus on deep, distributed liquidity and adherence to high technical standards. Our strategy prioritizes stable market presence and future self-management of our token ecosystem.
+
+### 2. Tokenomics and Distribution 📊
+
+The total supply of XLMFISH is **1,000,000,000 tokens**. Our tokenomics model is designed for transparency and is based on a distribution strategy prioritizing liquidity and community access.
+
+*Note: We acknowledge that tokenomics is a work in progress as we finalize the full breakdown of our partner-contributed liquidity.*
+
+#### Tokenomics Summary
+
+The distribution breakdown below is based on verifiable on-chain data and the strategic allocation goals of the team.
+
+| Allocation Category | Verified XLMFISH Amount | Percentage | Description |
+| :--- | :--- | :--- | :--- |
+| **Total Liquidity Pools (LP)** | $662,389,545.88$ | $66.24\%$ | The entire liquidity provision across 46 pools on the Stellar DEX. The breakdown of this total is pending finalization. |
+| **Community & General Circulating** | $237,610,455.12$ | $23.76\%$ | All tokens currently sold and held by the general user base via the Stellar DEX, Lu.Meme, and Lumos Launchpad. |
+| **Founder/Team** | $99,999,999.00$ | $10.00\%$ | Held by the founder for project development and long-term incentives. This is verified on-chain at account: `GCNJRV4UCGE2A754GCDS4H2JTETV6HFD6TQSB5Z4A6NSRPQ6635IN4GU`. |
+| **TOTAL** | **$1,000,000,000.00$** | **$100.00\%$** | |
+
+### 3. Liquidity Profile and Strategy 🌊
+
+Our LP profile is complex and engineered to adapt to market conditions. The overarching goal is to eventually establish self-managed liquidity for XLMFISH and all future project tokens.
+
+#### Liquidity Pool (LP) Breakdown
+
+The $66.24\%$ Total LP is currently composed of the following key components:
+
+| LP Component | XLMFISH Amount | Status | Strategic Role |
+| :--- | :--- | :--- | :--- |
+| LibreXLM Partner LP | $4,438,797.71$ | **Known Value** | Liquidity contributed by LibreXLM across the $yXLMFISH/XLMFISH$ and $LIBRE/XLMFISH$ pools, demonstrating cross-ecosystem utility. |
+| **Lu.Meme Foundational LP** | **To Be Determined** | **Pending Data** | The initial, stable liquidity set up by our launch partner, Lu.Meme, in the base $XLM/XLMFISH$ pool. This is a foundational, stable component of the token’s distribution. |
+| Team Managed LP | Remaining Amount | Pending Calculation | The liquidity reserved for future team-managed pools, designed for strategic market adaptation and eventually full self-management. |
+
+#### Key Liquidity Points:
+
+* **Diverse & Deep:** Liquidity is distributed across 46 active pools, ensuring efficient, low-slippage trading, especially within core pairs such as $XLM/XLMFISH$ and $yXLM/XLMFISH$.
+* **Foundational Partnership:** The initial launch and primary base liquidity were established through Lu.Meme, a stable partner whose contribution is essential to the token’s foundation.
+* **Future Strategy:** The team maintains a strategy of gradually transitioning the LP profile to a fully Team Managed LP over time, aligning with the long-term vision of establishing complete control and self-management for the liquidity of all our tokens.
+
+### 4. Technical and Accessibility Standards ⚙️
+
+We prioritize technical compliance and accessibility to foster user trust and seamless ecosystem integration.
+
+#### Purchase Accessibility
+
+XLMFISH is available for direct purchase through multiple established platforms on the Stellar network:
+
+* **Stellar Decentralized Exchange (DEX)**: Available for direct purchase against various assets.
+* **Lu.Meme**: Trading is facilitated on this platform.
+* **Lumos Launchpad**: Available through the launchpad interface.
+
+#### Technical Compliance
+
+Leveraging our team's expertise in web technologies, we are committed to maintaining the highest technical standards:
+
+* **`stellar.toml` Commitment:** We recognize that proper Stellar configuration is paramount. We are committed to hosting a correctly configured and compliant `stellar.toml` file. This ensures our asset is accurately recognized, validated, and displayed by wallets and services across the Stellar network, underscoring our commitment to transparency and security.
+
+---
+
+### **NEXT STEP REQUIRED**
+
+The only remaining piece of information is the exact amount of XLMFISH in the **Lu.Meme Foundational LP**. Once you provide that figure, we can finalize the three LP breakdown components and complete the Tokenomics section.
+
+---
+*Copyright © 2025 XLMFISH. All Rights Reserved.*
