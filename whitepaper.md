@@ -18,7 +18,7 @@
 
 ### 1. Introduction: XLMFISH 🐟
 
-XLMFISH is a digital asset built on the Stellar network. While XLMFISH functions as the accounting and utility token for our ecosystem, the core identity of this project is that of a **blockchain tool and web application developer**. Our mission is to build the critical infrastructure that enhances liquidity and facilitates cross-chain solutions within the Stellar ecosystem and the broader Web3 landscape.
+XLMFISH is a digital asset built on the Stellar network. While XLMFISH functions as the accounting and utility token for our ecosystem, the core identity of this project is that of a **blockchain tool and web application**. Our mission is to build the critical infrastructure that enhances liquidity and facilitates cross-chain solutions within the Stellar ecosystem and the broader Web3 landscape.
 
 ### 2. Tokenomics and Distribution 📊
 
@@ -81,14 +81,6 @@ We recognize two key market gaps that our development efforts are designed to fi
 
 1.  **Stellar Liquidity Enhancement:** While the Stellar DEX is robust, the overall liquidity and depth, particularly in non-XLM and emerging asset pairs, can be fragmented. Our applications will focus on developing **next-generation automated market-making (AMM) strategies** and user-facing tools to drive deep, efficient, and sustained liquidity across the Stellar Decentralized Exchange (DEX).
 2.  **Cross-Chain Interoperability:** The future of finance is multi-chain. We see a significant opportunity to build **secure, user-friendly bridges and APIs** that connect assets and value flows between the high-speed, low-cost Stellar network (leveraging Soroban for smart contract logic) and other major blockchain networks. Our tools are designed to reduce the friction, risk, and cost traditionally associated with cross-chain transfers.
-
-#### The Role of the XLMFISH Token
-
-The XLMFISH token is not the product; it is the **accounting mechanism and utility asset** that powers the XLMFISH development ecosystem.
-
-* **Fee Accounting:** XLMFISH will be utilized to account for service fees within our proprietary web applications and APIs, specifically those providing cross-chain liquidity routing and advanced market data.
-* **Access & Utility:** The token serves as a utility layer, potentially offering preferential access, fee discounts, or governance weight for users of our specialized development tools and web platforms.
-* **Stability Backing:** Its distribution and deep liquidity profiles are necessary to ensure the token remains a stable, accessible unit of account that underpins the reliability of our financial tools.
 
 #### Ecosystem Fit
 
